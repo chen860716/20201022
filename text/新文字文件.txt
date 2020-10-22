@@ -1,0 +1,17 @@
+<div class="col-md-3">
+                    <div class="card mb-4 shadow-sm">
+                        <img src="https://findicons.com/files/icons/1786/oxygen_refit/128/input_gaming.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                            <p class="card-text">This content is a little bit longer.</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                  <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-secondary">Buy</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Shopping car</button>
+                                </div>
+                            <small class="text-muted">2000</small>
+                        </div>
+                    </div>
+                </div>
+https://findicons.com/files/icons/2166/oxygen/128/video_television.png
+https://findicons.com/files/icons/1235/indiana_jones_and_the_temple_of_doom/128/voodoo_doll.png
+https://findicons.com/files/icons/342/food/128/pizza_slice.png
